@@ -1,3 +1,3 @@
 # Home
 
-[CV link]()
+[CV link](myCV.pdf)
