@@ -1,5 +1,5 @@
 # Home
 
-[CV link](myCV.pdf)
+[CV link](myCV_pub.pdf)
 
 mail: <jan.antos@icloud.com>
